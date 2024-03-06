@@ -18,4 +18,11 @@ public class ExtendedStringManipulator extends StringManipulator {
         // TODO: Implement the logic to find all occurrences of the substring
         return null;
     }
+
+    // Task 1.2.3
+    // Write a method that finds all palindormes in a given string.
+    public List<Integer> findAllPalindromes(String input, String substring) {
+        // TODO: Implement the logic to find all occurrences of the substring
+        return null;
+    }
 }

@@ -5,7 +5,8 @@ public class AdvanceStringManipulator {
     // Task 1.1.1
     // Write a method that returns the count of words in a given sentence.
     public int countWords(String sentence) {
-        return sentence == null ?  -1 : sentence.length();
+        // TODO: Implement the logic to count words in the sentence
+        return 0;
     }
 
     // Task 1.1.2

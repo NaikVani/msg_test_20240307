@@ -1,4 +1,4 @@
-# Recruitment Test
+# Coding Assessment
 
 1. Checkout branch locally
 2. Create feature branch from main branch
